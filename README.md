@@ -1,1 +1,42 @@
-<img src="https://media.collegedekho.com/media/img/institute/crawled_images/None/DFDFDERTGGSADF.jpg" style="justify-content-center"> <h3 align="center">🎓 Godavari Global University (GGU)</h3> <h5 align="center">NH-16, Chaitanya Knowledge City, Rajamahendravaram, Andhra Pradesh 533296</h5> --- ### 🌍 About Us **Godavari Global University (GGU)** is a premier institution committed to academic excellence, research, and innovation. We aim to nurture future leaders through world-class education, hands-on learning, and a focus on technology-driven growth. This GitHub space is dedicated to: - 📂 Student & Faculty Research Projects - 🖥️ Open-source Contributions - 📊 Data Science, AI & ML Research - 🌐 Web & App Development Projects - 🎓 Academic Resources & Hackathon Initiatives --- ### 🛠️ Technologies & Focus Areas <div align="start"> ● ☁️ **AWS (Cloud Computing)** ● 🌐 **CCNA (Networking & Infrastructure)** ● 🔄 **DevOps & CI/CD Pipelines** ● 🤖 **Generative AI (Gen AI)** ● 💻 **Java Full Stack Development** ● 🖥️ **Red Hat (Linux & Cloud Solutions)** ● 📱 **Mobile App Development (Android & iOS)** </div> --- ### 📬 Contact Us - 🌐 [Website](https://ggu.edu.in/) - ✉️ godavariglobaluniversitygithub@gmail.com - 📍 NH-16, Chaitanya Knowledge City, Rajamahendravaram, Andhra Pradesh 533296 - 🔗 [LinkedIn](https://in.linkedin.com/company/ggu-edu-in) - 🐦 Twitter: [@GIETInstitution](https://twitter.com/GIETInstitutio1)
+<img src="https://media.collegedekho.com/media/img/institute/crawled_images/None/DFDFDERTGGSADF.jpg" style="justify-content-center">
+
+<h3 align="center">🎓 Godavari Global University (GGU)</h3>
+<h5 align="center">NH-16, Chaitanya Knowledge City, Rajamahendravaram, Andhra Pradesh 533296</h5>
+
+---
+
+### 🌍 About Us
+**Godavari Global University (GGU)** is a premier institution committed to academic excellence, research, and innovation.  
+We aim to nurture future leaders through world-class education, hands-on learning, and a focus on technology-driven growth.  
+
+This GitHub space is dedicated to:  
+- 📂 Student & Faculty Research Projects  
+- 🖥️ Open-source Contributions  
+- 📊 Data Science, AI & ML Research  
+- 🌐 Web & App Development Projects  
+- 🎓 Academic Resources & Hackathon Initiatives  
+
+---
+
+### 🛠️ Technologies & Focus Areas
+<div align="start">
+
+● ☁️ **AWS (Cloud Computing)**  
+● 🌐 **CCNA (Networking & Infrastructure)**  
+● 🔄 **DevOps & CI/CD Pipelines**  
+● 🤖 **Generative AI (Gen AI)**  
+● 💻 **Java Full Stack Development**  
+● 🖥️ **Red Hat (Linux & Cloud Solutions)**  
+● 📱 **Mobile App Development (Android & iOS)**  
+
+</div>
+
+---
+
+### 📬 Contact Us
+- 🌐 [Website](https://ggu.edu.in/)  
+- ✉️ godavariglobaluniversitygithub@gmail.com  
+- 📍 NH-16, Chaitanya Knowledge City, Rajamahendravaram, Andhra Pradesh 533296  
+- 🔗 [LinkedIn](https://in.linkedin.com/company/ggu-edu-in)  
+- 🐦 Twitter: [@GIETInstitution](https://twitter.com/GIETInstitutio1)  
+
